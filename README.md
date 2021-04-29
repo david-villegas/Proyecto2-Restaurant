@@ -5,6 +5,7 @@
 * HTML
 * CSS
 * JS
+* JQUERY
 
 # Preview
-Ingresa en el siguiente enlace [Proyecto1](https://david-villegas.github.io/Proyecto1-WebCoffee/)
+Ingresa en el siguiente enlace [Proyecto2](https://david-villegas.github.io/Proyecto2-Restaurant/)
