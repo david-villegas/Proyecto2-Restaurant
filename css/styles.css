@@ -255,3 +255,15 @@ header .textos h3{
   float: left;
   text-align: center;
 }
+
+/******* MAPA *******/
+
+.main .mapa {
+  width: 100%;
+  overflow: hidden;
+}
+
+.main .mapa iframe{
+  width: 100%;
+  max-width: 1350px;
+}
