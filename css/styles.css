@@ -267,3 +267,15 @@ header .textos h3{
   width: 100%;
   max-width: 1350px;
 }
+
+/******* FOOTER *******/
+
+footer {
+  background: #000;
+}
+
+footer .copyrigth {
+  text-align: center;
+  padding: 15px 0;
+  color: #fff;
+}
